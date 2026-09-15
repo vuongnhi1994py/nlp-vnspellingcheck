@@ -7,3 +7,4 @@ output/local/
 
 .env
 .DS_Store
+vendor/PaddleOCR/
