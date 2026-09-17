@@ -1,0 +1,2 @@
+# Artifact finalization and evaluation use only the Python standard library.
+# Install PaddleOCR and PaddlePaddle separately to train or run the model.

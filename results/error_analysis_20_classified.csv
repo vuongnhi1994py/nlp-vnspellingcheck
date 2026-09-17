@@ -1,0 +1,21 @@
+﻿image,ground_truth,prediction,score,exact_match,error_type
+test/letrieulichkhoatiensitap3__page_031_crop_26.jpg,"Cẩn-sự-lang Hàn-lâm-viện Hiệu-lý, « thần » Bùi-Sĩ-Tiêm","Cẩn-sự-lang Hàn-lâm-vièn Hieu-lý,« thần » Bùi-Si-Tiêm",0.8685619235038757,False,sai chữ cái
+test/khamdinhdainamhoidiensuletap15__page_048_crop_20.jpg,"đệ vật gì, chủng loại gì số lượng bao nhiêu, do nha giữ đồ vật ấy","đệ vật gì, chùng loại gì số lượng bao nhiêu, do nha giữ đồ vật ấy",0.9678277969360352,False,sai dấu thanh
+test/khamdinhdainamhoidiensuletap3__page_062_crop_26.jpg,"sức thực hành, cốt mong cho công việc được nhanh chóng xong xuôi","súc thực hành, cốt mong cho công việc được nhanh chóng xong xuôi",0.9654024839401244,False,sai dấu thanh
+test/khamdinhdainamhoidiensuletap13__page_441_crop_16.jpg,"gần hơn thì quân giải được 2 tháng tiền lương, suất đội trưởng","gần hơn thì quản giải được 2 tháng tiền lương, suất đội trưỡng",0.9373340010643004,False,sai dấu thanh
+test/sv_6431_crop_19.jpg,"bố, không chỉ do các cơ quan, tổ chức chuyên nghiên cứu biên","bố, không chi do các cơ quan, tổ chức chuyên nghiên cứu biên",0.9475100040435792,False,sai dấu thanh
+test/phatgiaotriethoc_page_068_crop_10.jpg,nguyên-nhân của hiện tượng. Tri-giác được,nguyên-nhân của hiện-tưọng. Tri-giác được,0.9091108441352844,False,sai chữ cái
+test/tangthuongngauluc__page_037_crop_22.jpg,"phục thì nón chóp kiều thầy chùa, áo chẽn tay. Những","phục thì nón chóp kiểu thày chùa, áo chēn tay. Những",0.9718283414840698,False,sai dấu thanh
+test/annamchiluoc__page_105_crop_10.jpg,"những quân còn sót lại ở các cảnh, chỉ có 5.000 người, cùng Lê Tắc từ","những quân còn sót lại ở các cảnh, chỉ có S.ooo người, cùng Lê Tắc từ",0.9316638708114624,False,sai chữ cái
+test/daivietsukytucbien_page_322_crop_8.jpg,"Quan quân tiến đến nơi, quân Duy Mật lui chạy(12). Chúa nghĩ không","Quan quân tiến đến nơi, quân Duy Mật lui chạy(12a). Chúa nghĩ không",0.9510719776153564,False,sai chữ cái
+test/khamdinhdainamhoidiensuletap15__page_069_crop_9.jpg,"các đồ vật, pháo, dạn, cứ mỗi 100 cận thu thanh khí 7 cân, hao 30","các đồ vật, pháo, dạn, cử mỗi 100 cân thu thanh khi 7 cân, hao 30",0.9569886922836304,False,sai dấu thanh
+test/tutrithonggiam7__page_171_crop_13.jpg,tay hướng về phía thành trì mà tạ tội:,tay hưóng về phía thành trì mà tạ tội:,0.9728670716285706,False,sai dấu thanh
+test/sv_5672_crop_1.jpg,"phần khu trung tâm, uy hiếp vùng trời còn lại của chúng, ta điều","phân khu trung tâm, uy hiếp vùng trời còn lại của chúng, tạo điều",0.9789987206459044,False,sai chữ cái
+test/minhmenhchinhyeutap2__page_072_crop_13.jpg,Thành thần Giu-định đem việc ấy tàu lên.,Thành thần Gia-định đem việc ấy tâu ln.,0.9135304689407348,False,sai chữ cái
+test/sv_1271_crop_20.jpg,nổi binh.,nói binh.,0.8273030519485474,False,sai dấu thanh
+test/sv_1379_crop_19.jpg,"Tu, Khâm sai cai cơ là Đoàn Văn Sở, Nguyễn Văn Vạn, Trần Văn Loan,","Tú, Khâm sai cai cơ là Đoàn Văn Sở, Nguyễn Văn Vạn, Trần Văn Loan.",0.935946524143219,False,sai chữ cái
+test/MinhMenhchinhyeutap6ocr__page_380_crop_21.jpg,1971. 2 + XXVIII trang. Giá : 16000.,1971.22+ XXyII trang.Giá: 160$00.,0.8129064440727234,False,sai chữ cái
+test/binhthuyeuluoctranquoctuan_page_002_crop_5.jpg,Nhưng các binh thư lại có rất nhiều thứ. Phần Nghệ-Văn-,Nhưng các binh thư lại có rất nhiều thứ. Phần Nghệ-Văn,0.9643809199333192,False,sai chữ cái
+test/khamdinhdainamhoidiensuletap8__page_187_crop_21.jpg,"cho phụng thờ, sau đây nếu có xã dẫn nào lại đem việc ấy ra đi","cho phụng thờ, sau đây nếu có xã dân nào lại đem việc ấy ra đi",0.951934278011322,False,sai dấu thanh
+test/datviettroinam_page_514_crop_13.jpg,"nằm trong lưu-vực thượng lưu Hồng-Hà, giữa hai tinh Yên-Bảy và","nằm trong lưu-vực thượng lưu Hồng-Hà, giữa hai tình Yên-Báy và",0.9186951518058776,False,sai dấu thanh
+test/khamdinhdainamhoidiensuletap15__page_340_crop_26.jpg,Lại chuẩn y lời nghị : Những quan binh đi ngồi thuyền vận,Lại chuần y lời nghị : Những quan binh đi ngồi thuyền vận,0.9492722749710084,False,sai dấu thanh

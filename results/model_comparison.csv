@@ -1,0 +1,3 @@
+model,samples,acc,norm_edit_dis,training_time
+PaddleOCR original,3003,0.04229104229104229,0.7951043080461289,0
+Fine-tuned PP-OCRv5 Mobile (4 epochs),3003,0.3633033633033633,0.9513367698593498,18:55:50

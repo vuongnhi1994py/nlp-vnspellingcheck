@@ -1,0 +1,14 @@
+ERROR ANALYSIS - 20 SAMPLES
+Dataset: rec_test.txt
+Model: PP-OCRv5 Mobile - 4 epochs
+
+Total analyzed errors: 20
+
+Sai dấu thanh / dấu tiếng Việt:
+11 samples (55%)
+
+Sai chữ cái / ký tự:
+9 samples (45%)
+
+Lặp ký tự:
+0 samples (0%)
