@@ -1,3 +1,3 @@
-model,samples,acc,norm_edit_dis,training_time
-PaddleOCR original,3003,0.04229104229104229,0.7951043080461289,0
-Fine-tuned PP-OCRv5 Mobile (4 epochs),3003,0.3633033633033633,0.9513367698593498,18:55:50
+model,dataset,samples,acc,norm_edit_dis
+PaddleOCR original,rec_test.txt,3003,0.04229104229104229,0.7951043080461289
+Fine-tuned PP-OCRv5 Mobile,rec_test.txt,3003,0.31102231102231104,0.9477534088956724
